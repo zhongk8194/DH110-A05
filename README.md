@@ -6,15 +6,18 @@ Kelly Zhong, DH 110
 ## Project Overview
 **Project Description**
 <br>
-lorem ipsum
+The goal of my project is to redesign the CNN.com website to help users more easily consume news. Specifically, like many news websites, CNN.com is hard to navigate because of the overwhelming amount of content and the lack of clear organization and layout design of that content. With my project, I hope to add features that will improve the website's organization and help users to find desired content.
 <br>
 **Purpose** 
 <br>
-lorem ipsum
+The purpose of creating this low-fidelity prototype is to ensure that the suggested features are (1) addressing the user pain points of unorganized and overwhelming content and (2) natural within the existing design system. 
 <br>
 **Tasks**
 <br>
-lorem ipsum
+- customize feed feature! :O 
+- an accessible news feed
+- just really making it more personalized. i feel like people would like this 
+- 
 <br>
 <br>
 
