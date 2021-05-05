@@ -49,8 +49,11 @@ Changes made:
 <br>
 
 **Iteration 2:**
-<img>
+<img src="it2-1.jpg" width=80%>
+<img src="it2-2.jpg" width=80%>
+<br>
 Problem: 
+<br>
 Changes made:
 <br><br>
 
