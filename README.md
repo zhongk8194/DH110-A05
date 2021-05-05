@@ -52,9 +52,9 @@ _Changes made:_ For **Feature 1**, I added a button that says "Done" underneath 
 <img src="it2-1.jpg" width=80%>
 <img src="it2-2.jpg" width=80%>
 <br>
-_Problem:_ Everything went smoothly in this round of user testing; however, the user brought up suggestions regarding the copy of the text. Specifically, she wondered if instead of "Customize" for feature 1, the word "Personalize" or "Display" would work just as well or better. She also brought up concerns about Accessibility Mode being the only element under the "Site Display" section for feature 2.
+_Problem:_ Everything went smoothly in this round of user testing; however, the user brought up suggestions regarding the copy of the text. Specifically, she wondered if instead of "Customize" for **Feature 1**, the word "Personalize" or "Display" would work just as well or better. She also brought up concerns about Accessibility Mode being the only element under the "Site Display" section for **Feature 2**.
 <br><br>
-_Changes to be made:_ If I was to create another iteration, I would play around with different wordings for feature 1. I would test if the words "Personalize" or "Display" were more intuitive for the user by conducting more usability testings. Furthermore, I would consider placing Accessibility Mode on the homepage to make it easier for users to find. 
+_Changes to be made:_ If I was to create another iteration, I would play around with different wordings for **Feature 1**. I would test if the words "Personalize" or "Display" were more intuitive for the user by conducting more usability testings. Furthermore, for **Feature 2**, I would consider placing Accessibility Mode on the homepage to make it easier for users to find. 
 <br><br>
 
 ## Reflection
