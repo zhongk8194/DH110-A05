@@ -4,17 +4,14 @@ Kelly Zhong, DH 110
 
 ## Project Overview
 ### Project Description
-<br>
 The goal of my project is to redesign the CNN.com website to help users more easily consume news. Specifically, like many news websites, CNN.com is hard to navigate because of the overwhelming amount of content and the lack of clear organization and layout design of that content. With my project, I hope to add features that will improve the website's organization and help users to find desired content.
 <br>
 
 ### Purpose 
-<br>
 The purpose of creating this low-fidelity prototype is to ensure that the suggested features (1) address the user pain point of unorganized and overwhelming content, (2) help users to more easily find the content that they are interested in, and (3) fit naturally within the existing design system. 
 <br>
 
 ### Tasks
-<br>
 The two features that my low-fidelity prototypes demonstrate are: 
 <br> 
 1. **Customize feed feature**: a filter function that gives users the ability to personalize their homefeed to see only the content that they want to see.
