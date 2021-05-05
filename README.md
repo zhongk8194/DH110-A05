@@ -21,7 +21,7 @@ Based on these two features, the low-fidelity prototype will support the followi
 1. Select customize feed function 
 2. Choose desired topics 
 3. Apply personalized changes 
-4. Turn on accessibility 
+4. Turn on accessibility mode 
 <br>
 
 ## Wireframes and Wireflows
@@ -43,12 +43,12 @@ Based on these two features, the low-fidelity prototype will support the followi
 <img src="it1-1.jpg" width=80%>
 <img src="it1-2.jpg" width=80%>
 <br>
-Problem: 
+Problem: For **Feature 1**, the user was told to customize the newsfeed so that the feed only showed top news and news about the United States. While the user was going through the process, everything went smoothly until she was done choosing the desired topics. She was confused about whether the feed would automatically update if she waited long enough, or if she had to press outside the "Customize" box to apply the changes. For **Feature 2**, the user was told to navigate to the Settings to turn on Accessibility Mode. However, after pressing the profile button, she was confused why the screen automatically went to the Settings.
 <br>
-Changes made:
+Changes made: For **Feature 1**, I added a button that says "Done" underneath the personalization options. After pressing this button, the newsfeed would refresh with changes applied. For **Feature 2**, I added another screen that included the drop-down that appears after cliking the profile icon. This drop-down has the options "Settings" and "Log out". 
 <br>
 
-**Iteration 2:**
+**Iteration 2:** <br>
 <img src="it2-1.jpg" width=80%>
 <img src="it2-2.jpg" width=80%>
 <br>
