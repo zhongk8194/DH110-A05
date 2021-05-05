@@ -22,10 +22,11 @@ Based on these two features, the low-fidelity prototype will support the followi
 2. Choose desired topics 
 3. Apply personalized changes 
 4. Turn on accessibility 
+<br>
 
 ## Wireframes and Wireflows
 ### Basic wireframes
-<br>
+
 ### Testing
 **Wireflows:**
 <img>
