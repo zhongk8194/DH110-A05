@@ -19,7 +19,6 @@ The two features that my low-fidelity prototypes demonstrate are:
 <br> 
 1. **Customize feed feature**: a filter function that gives users the ability to personalize their homefeed to see only the content that they want to see.
 2. **Accessible newsfeed feature**: a function that gives users the ability to turn on "accessibility mode", which rearranges the newsfeed to make it easier to read and understand.
-<br>
 
 Based on these two features, the low-fidelity prototype will support the following tasks: 
 1. Select customize feed function 
@@ -30,14 +29,17 @@ Based on these two features, the low-fidelity prototype will support the followi
 ## Wireframes and Wireflows
 **Basic wireframes**
 <br>
-**Testing**
+**Testing** <br>
 Wireflows:
 <img>
+<br>
+
 Iteration 1:
 <img>
 Problem: 
 Changes made:
 <br>
+
 Iteration 2:
 <img>
 Problem: 
