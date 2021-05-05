@@ -27,9 +27,10 @@ Based on these two features, the low-fidelity prototype will support the followi
 ## Wireframes and Wireflows
 ### Basic wireframes
 **Feature 1** <br>
-<img src="basic1.jpg">
+<img src="basic1.jpg" style="width:80%;">
+<br>
 **Feature 2** <br>
-<img src="basic2.jpg">
+<img src="basic2.jpg" style="width:80%;">
 
 ### Testing
 **Wireflows:**
