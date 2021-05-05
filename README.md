@@ -31,10 +31,8 @@ Based on these two features, the low-fidelity prototype will support the followi
 <br><br>
 **Feature 2:** <br>
 <img src="basic2.jpg" width=80%>
-<br>
+<br><br>
 
------
-<br>
 ### Testing
 **Wireflows:** <br>
 <img src="wf1.jpg" width=80%>
