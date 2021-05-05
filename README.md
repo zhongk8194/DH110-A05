@@ -39,9 +39,12 @@ Based on these two features, the low-fidelity prototype will support the followi
 <img src="wf2.jpg" width=80%>
 <br>
 
-**Iteration 1:**
-<img>
+**Iteration 1:** <br>
+<img src="it1-1.jpg" width=80%>
+<img src="it1-2.jpg" width=80%>
+<br>
 Problem: 
+<br>
 Changes made:
 <br>
 
