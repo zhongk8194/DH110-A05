@@ -50,7 +50,7 @@ _Changes made:_ For **Feature 1**, I added a button that says "Done" underneath 
 
 **Iteration 2:** <br>
 <img src="it2-1.jpg" width=80%>
-<img src="it2-2.jpg" width=80%>
+<img src="it2-2.JPG" width=80%>
 <br>
 _Problem:_ Everything went smoothly in this round of user testing; however, the user brought up suggestions regarding the copy of the text. Specifically, she wondered if instead of "Customize" for **Feature 1**, the word "Personalize" or "Display" would work just as well or better. She also brought up concerns about Accessibility Mode being the only element under the "Site Display" section for **Feature 2**.
 <br><br>
